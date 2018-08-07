@@ -6,7 +6,7 @@ As a Machine Learning enthousiast, I want to compare myself to other Machine Lea
 
 ## Competitions attended
 
-* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) - A simple approach to Decision Tree Learning
+* [Titanic: Machine Learning from Disaster](https://github.com/guillaumelgf/Kaggle/tree/master/Titanic) - A simple approach to Decision Tree Learning
 
 ## License
 
